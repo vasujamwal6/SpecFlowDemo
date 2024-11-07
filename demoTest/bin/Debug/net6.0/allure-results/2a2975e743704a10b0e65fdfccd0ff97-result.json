@@ -1,0 +1,150 @@
+{
+  "uuid": "0f3cbeff-b092-42b2-95c7-4dcb309aa035",
+  "historyId": "1868054ec832ef79e2bb18cb16cda901",
+  "testCaseId": "7878856f99eff1333782ae261495f6c5",
+  "fullName": "demoTest/Features/APITestRestSharp/Verify user is able to create new object using api",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "SDET-LT88"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "APITestRestSharp"
+    },
+    {
+      "name": "tag",
+      "value": "ApiTest"
+    }
+  ],
+  "links": [],
+  "name": "Verify user is able to create new object using api",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Received Incorrect Status Code\r\n  Expected: 400\r\n  But was:  200\r\n",
+    "trace": "NUnit.Framework.AssertionException:   Received Incorrect Status Code\r\n  Expected: 400\r\n  But was:  200\r\n\r\n   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)\r\n   at NUnit.Framework.Assert.AreEqual(Object expected, Object actual, String message, Object[] args)\r\n   at demoTest.StepDefinitions.APITestStepDefinitionsRestSharp.user_verifies_newobject_is_created(String color, Int32 statusCode) in C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\APITestStepDefinitionsRestSharp.cs:line 112\r\n   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at Allure.SpecFlowPlugin.AllureBindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  User wants to create new object with parameters as Grey and 256",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "Color",
+          "value": "Grey",
+          "excluded": false
+        },
+        {
+          "name": "Capacity",
+          "value": "256",
+          "excluded": false
+        },
+        {
+          "name": "Request URI",
+          "value": "https://api.restful-api.dev/objects",
+          "excluded": false
+        }
+      ],
+      "start": 1730982482218,
+      "stop": 1730982482218
+    },
+    {
+      "name": "When  User creates new object with endpoint objects having Grey and 256",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [
+        {
+          "name": "Request Body",
+          "value": "{ name = Test, data = { color = Grey, capacity = 256 } }",
+          "excluded": false
+        },
+        {
+          "name": "Response Body",
+          "value": "{\"id\":\"ff80818192925da70193069893687e15\",\"name\":\"Test\",\"createdAt\":\"2024-11-07T12:28:02.792+00:00\",\"data\":{\"color\":\"Grey\",\"capacity\":256}}",
+          "excluded": false
+        }
+      ],
+      "start": 1730982482218,
+      "stop": 1730982483100
+    },
+    {
+      "name": "Then  User verifies new object is created with color Grey, capacity GB and status 400",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Received Incorrect Status Code\r\n  Expected: 400\r\n  But was:  200\r\n",
+        "trace": "NUnit.Framework.AssertionException:   Received Incorrect Status Code\r\n  Expected: 400\r\n  But was:  200\r\n\r\n   at NUnit.Framework.Assert.ReportFailure(String message)\r\n   at NUnit.Framework.Assert.ReportFailure(ConstraintResult result, String message, Object[] args)\r\n   at NUnit.Framework.Assert.That[TActual](TActual actual, IResolveConstraint expression, String message, Object[] args)\r\n   at NUnit.Framework.Assert.AreEqual(Object expected, Object actual, String message, Object[] args)\r\n   at demoTest.StepDefinitions.APITestStepDefinitionsRestSharp.user_verifies_newobject_is_created(String color, Int32 statusCode) in C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\APITestStepDefinitionsRestSharp.cs:line 112\r\n   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at Allure.SpecFlowPlugin.AllureBindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments, TimeSpan& duration)\r\n   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982483100,
+      "stop": 1730982483102
+    }
+  ],
+  "attachments": [
+    {
+      "name": "Failed Screenshot",
+      "source": "99d644a7-00bb-4e3d-b083-1df4fae0344a-attachment",
+      "type": "image/png"
+    }
+  ],
+  "parameters": [
+    {
+      "name": "Endpoint",
+      "value": "\"objects\"",
+      "excluded": false
+    },
+    {
+      "name": "StatusCode",
+      "value": "\"400\"",
+      "excluded": false
+    },
+    {
+      "name": "Color",
+      "value": "\"Grey\"",
+      "excluded": false
+    },
+    {
+      "name": "capacityGB",
+      "value": "\"256\"",
+      "excluded": false
+    }
+  ],
+  "start": 1730982482218,
+  "stop": 1730982483368
+}

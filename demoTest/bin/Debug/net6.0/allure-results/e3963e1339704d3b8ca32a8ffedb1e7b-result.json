@@ -1,0 +1,92 @@
+{
+  "uuid": "9377a178-1a15-4bd0-8724-8f622b776e45",
+  "historyId": "10d860c4be1dc02089dba65360fc86ab",
+  "testCaseId": "d3c7619b6a5d56d7a1b480b73e414f58",
+  "fullName": "demoTest/Features/Verify youtube search feature/Search for BBC Earth",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "SDET-LT88"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Verify youtube search feature"
+    },
+    {
+      "name": "tag",
+      "value": "TestersTalk"
+    }
+  ],
+  "links": [],
+  "name": "Search for BBC Earth",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  Open the browser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982485767,
+      "stop": 1730982485768
+    },
+    {
+      "name": "When  Enter the URL",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982485768,
+      "stop": 1730982491955
+    },
+    {
+      "name": "Then  Search for the BBC Earth",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982491955,
+      "stop": 1730982497244
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730982485767,
+  "stop": 1730982497244
+}

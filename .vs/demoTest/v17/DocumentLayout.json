@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\features\\apitest.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\features\\apitest.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\hooks\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\features\\apitestrestsharp.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\features\\apitestrestsharp.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\stepdefinitions\\apiteststepdefinitionsrestsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\stepdefinitions\\apiteststepdefinitionsrestsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\apiactions\\apicalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\apiactions\\apicalls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\stepdefinitions\\apiteststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\stepdefinitions\\apiteststepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\specflow.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\stepdefinitions\\feature1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\stepdefinitions\\feature1stepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\configuration\\configsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\configuration\\configsetting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\configuration\\configsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\configuration\\configsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|c:\\users\\vasudev.singh\\source\\repos\\demotest\\demotest\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{04D1C2D7-7E83-4D2F-A4E2-71EAFE54B18D}|demoTest\\demoTest.csproj|solutionrelative:demotest\\features\\feature1.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APITestStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\APITestStepDefinitions.cs",
+              "RelativeDocumentMoniker": "demoTest\\StepDefinitions\\APITestStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\APITestStepDefinitions.cs",
+              "RelativeToolTip": "demoTest\\StepDefinitions\\APITestStepDefinitions.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAE4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:50:43.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "APITestRestSharp.feature",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Features\\APITestRestSharp.feature",
+              "RelativeDocumentMoniker": "demoTest\\Features\\APITestRestSharp.feature",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Features\\APITestRestSharp.feature",
+              "RelativeToolTip": "demoTest\\Features\\APITestRestSharp.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-06T07:29:22.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APITest.feature",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Features\\APITest.feature",
+              "RelativeDocumentMoniker": "demoTest\\Features\\APITest.feature",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Features\\APITest.feature",
+              "RelativeToolTip": "demoTest\\Features\\APITest.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-06T07:29:09.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "demoTest\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\AssemblyInfo.cs",
+              "RelativeToolTip": "demoTest\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T08:07:14.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APITestStepDefinitionsRestSharp.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\APITestStepDefinitionsRestSharp.cs",
+              "RelativeDocumentMoniker": "demoTest\\StepDefinitions\\APITestStepDefinitionsRestSharp.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\APITestStepDefinitionsRestSharp.cs",
+              "RelativeToolTip": "demoTest\\StepDefinitions\\APITestStepDefinitionsRestSharp.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAUwEEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T06:26:35.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Hooks\\Hooks.cs",
+              "RelativeDocumentMoniker": "demoTest\\Hooks\\Hooks.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Hooks\\Hooks.cs",
+              "RelativeToolTip": "demoTest\\Hooks\\Hooks.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwDIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:47:12.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "APICalls.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\ApiActions\\APICalls.cs",
+              "RelativeDocumentMoniker": "demoTest\\ApiActions\\APICalls.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\ApiActions\\APICalls.cs",
+              "RelativeToolTip": "demoTest\\ApiActions\\APICalls.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAD4v0gAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:12:11.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "specflow.json",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\specflow.json",
+              "RelativeDocumentMoniker": "demoTest\\specflow.json",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\specflow.json",
+              "RelativeToolTip": "demoTest\\specflow.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T07:57:08.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Feature1StepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "RelativeDocumentMoniker": "demoTest\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "RelativeToolTip": "demoTest\\StepDefinitions\\Feature1StepDefinitions.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:19:41.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "configsetting.json",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Configuration\\configsetting.json",
+              "RelativeDocumentMoniker": "demoTest\\Configuration\\configsetting.json",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Configuration\\configsetting.json",
+              "RelativeToolTip": "demoTest\\Configuration\\configsetting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T07:35:30.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConfigSetting.cs",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Configuration\\ConfigSetting.cs",
+              "RelativeDocumentMoniker": "demoTest\\Configuration\\ConfigSetting.cs",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Configuration\\ConfigSetting.cs",
+              "RelativeToolTip": "demoTest\\Configuration\\ConfigSetting.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T07:35:28.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Feature1.feature",
+              "DocumentMoniker": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Features\\Feature1.feature",
+              "RelativeDocumentMoniker": "demoTest\\Features\\Feature1.feature",
+              "ToolTip": "C:\\Users\\vasudev.singh\\source\\repos\\demoTest\\demoTest\\Features\\Feature1.feature",
+              "RelativeToolTip": "demoTest\\Features\\Feature1.feature",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-11-06T07:20:45.855Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

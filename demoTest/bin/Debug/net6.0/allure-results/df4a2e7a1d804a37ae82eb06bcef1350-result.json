@@ -1,0 +1,92 @@
+{
+  "uuid": "45062bd9-f529-4653-9053-d429f0e191d9",
+  "historyId": "265618cc62191c73c6fda2b9515eb4ea",
+  "testCaseId": "829e28a2c7afb3d8757361771d9da72a",
+  "fullName": "demoTest/Features/Verify youtube search feature/Search for BBC Earth2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "SDET-LT88"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "SpecFlow"
+    },
+    {
+      "name": "feature",
+      "value": "Verify youtube search feature"
+    },
+    {
+      "name": "tag",
+      "value": "TestersTalk"
+    }
+  ],
+  "links": [],
+  "name": "Search for BBC Earth2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "Given  Open the browser",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982500049,
+      "stop": 1730982500050
+    },
+    {
+      "name": "When  Enter the URL",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982500050,
+      "stop": 1730982506421
+    },
+    {
+      "name": "Then  Search for the BBC Earth",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1730982506421,
+      "stop": 1730982511687
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1730982500049,
+  "stop": 1730982511688
+}
